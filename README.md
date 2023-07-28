@@ -1,16 +1,4 @@
-# clothing
+# Clothing App 
+![255835227-97a08317-b5af-492d-8ca2-ded61a61c19f](https://github.com/IbrahemAbusedo/clothing/assets/55332243/e0eebc29-8e0c-4847-8f82-eaaf9e6d2ccb)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
